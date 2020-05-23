@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Trần Đức Lương",
+        "phone" : "123456789",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Nguyễn Tài A ",
+        "phone" : "987654321",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Lê Thị Lựu ",
+        "phone" : "654123789",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Bùi Văn Bá",
+        "phone" : "651237891",
+        "permission" : 2
+    },
+    {
+        "id" : 5,
+        "name" : "Bùi Văn Bá",
+        "phone" : "651237891",
+        "permission" : 2
+    },
+    {
+        "id" : 6,
+        "name" : "Ironman",
+        "phone" : "651237891",
+        "permission" : 2
+    }
+]
